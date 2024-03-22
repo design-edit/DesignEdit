@@ -17,7 +17,7 @@ The code will be released soon.
 
 ### Object Moving, Resizing, Flipping, and Repeating
 
-![resizing](docs/resizing.png)
+![resizing](docs/resizing.jpg)
 
 ### Typography Retype
 
