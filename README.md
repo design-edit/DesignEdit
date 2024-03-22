@@ -15,9 +15,9 @@ The code will be released soon.
 
 ![removal](docs/panning.jpg)
 
-### Object Moving, Resizing, Flipping, and Repeating
+### Multi-object Editing: Moving, Resizing, Flipping, and Repeating
 
-![resizing](docs/resizing.jpg)
+![resizing](docs/multi.jpg)
 
 ### Typography Retype
 
