@@ -1,0 +1,15 @@
+diffusers==0.18.2
+matplotlib==3.7.2
+numpy==1.25.1
+opencv_python==4.8.0.74
+opencv_python_headless==4.8.0.74
+Pillow==10.1.0
+Pillow==10.1.0
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.65.0
+transformers==4.35.0
+gradio==3.50.2
+basicsr==1.4.2
+accelerate==0.21.0
+invisible-watermark

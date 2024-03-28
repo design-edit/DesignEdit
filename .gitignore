@@ -1,0 +1,7 @@
+img/
+logfile/
+__pycache__/
+*/__pycache__/
+models/
+plt/
+exp/
