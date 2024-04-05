@@ -292,7 +292,7 @@ def create_demo_zooming(runner=None):
         with gr.Row():
             with gr.Column():
                 with gr.Box():
-                    gr.Markdown("INPUT")
+                    gr.Markdown("# INPUT")
                     # mask 0
                     gr.Markdown("## Original Image")
                     original_image = gr.Image(source='upload', interactive=True, type="numpy")
@@ -360,7 +360,7 @@ def create_demo_panning(runner=None):
         with gr.Row():
             with gr.Column():
                 with gr.Box():
-                    gr.Markdown("INPUT")
+                    gr.Markdown("# INPUT")
                     # mask 0
                     gr.Markdown("## Original Image")
                     original_image = gr.Image(source='upload', interactive=True, type="numpy")
@@ -466,7 +466,7 @@ def create_demo_layer(runner=None):
         with gr.Row():
             with gr.Column():
                 with gr.Box():
-                    gr.Markdown("INPUT")
+                    gr.Markdown("# INPUT")
                     gr.Markdown("## Background Image")
                     bg_img = gr.Image(source='upload', label="Background", interactive=True, type="numpy")
                     gr.Markdown("## Layer-1")
