@@ -2,7 +2,7 @@
 > *Stable Diffusion XL 1.0* Implementation
 
 ![teaser](docs/teaser.jpg)
-### [Project Page](https://design-edit.github.io/)&ensp;&ensp;&ensp;[Paper](https://arxiv.org/abs/2403.14487)
+### [Project Page](https://design-edit.github.io/)&ensp;&ensp;&ensp;[Paper](https://arxiv.org/abs/2403.14487)&ensp;&ensp;&ensp;[Hugging Face Demo](https://huggingface.co/spaces/YuhuiYuan/DesignEdit)
 
 ## ✨ News ✨
 
