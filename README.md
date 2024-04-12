@@ -20,7 +20,7 @@ conda create -n DesignEdit python=3.10.12
 conda activate DesignEdit
 pip install -r requirements.txt
 ```
-Notice that our model is entirely <span style="color:red;">training-free💪</span>!!! The base model is the Stable Diffusion Model XL-1.0.
+Notice that our model is entirely **<font color="red">training-free</font>**💪!!! The base model is the Stable Diffusion Model XL-1.0.
 
 ## Demo
 We have created an interactive interface using Gradio, as shown below. You only need to simply run the following command in the environment we previously set up:
