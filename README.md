@@ -1,4 +1,4 @@
-# DesignEdit: Multi-Layered Latent Decomposition and Fusion for Unified & Accurate Image Editing
+# DesignEdit: Unify Spatial-Aware Image Editing via Training-free Inpainting with a Multi-Layered Latent Diffusion Framework
 > *Stable Diffusion XL 1.0* Implementation
 
 ![teaser](docs/teaser.jpg)
@@ -6,6 +6,7 @@
 
 ## ✨ News ✨
 
+- [2024/4/4] 🎉 DesignEdit has been accepted to AAAI 2025! 🎉
 - [2024/4/4] We have supported the Gradio Application on Hugging Face 🤗, encouraging you to design online without the need for local deployment.
 - [2024/3/28] We release the code for DesignEdit! Let's design together! 😍
 
